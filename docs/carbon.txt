@@ -1,0 +1,12 @@
+$kaomojis = KaomojiChart::getKaomojis();
+
+// Returns an array of kaomoji
+array [
+  […]
+  [
+    'character' => '\(^_^)/',
+    'category' => '1',
+    'name' => 'banzai',
+  ],
+  […]
+]
